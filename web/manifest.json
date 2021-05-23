@@ -1,6 +1,6 @@
 {
-    "name": "flutter_phone_verification",
-    "short_name": "flutter_phone_verification",
+    "name": "chat_app",
+    "short_name": "chat_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
