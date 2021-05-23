@@ -1,4 +1,4 @@
-# chat_app
+# flutter_phone_verification
 
 A new Flutter project.
 
